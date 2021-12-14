@@ -15,8 +15,8 @@
 const skills = {
   backend: [Nodejs, Typescript, Serverless, RabbitMQ, Python, Java, '.Net Core'],
   database: [PostgreSQL, MySQL, MongoDB],
-  frontend: [Reactjs, HTML5, CSS3, Javascript, 'Styled-Components'],
-  mobile: [ReactNative, Xamarin],
+  frontend: [Reactjs, HTML5, CSS3, Javascript, 'Styled-Components', Bootstrap, ChakraUI],
+  mobile: ['React Native', Xamarin],
   architecture: [Microservices, DDD, SOLID],
   aws: [EC2, Lambda, SQS, Kinesis, S3, 'Secrets Manager'],
   test: [Jest, Mocha],
@@ -24,8 +24,8 @@ const skills = {
   agile: [Scrum, XP, Kanban]
 }
 ```
-<hr/>
-<div align="center" style="background-color:white; padding:10px; border-radius:6px">
+<h3 align="left">My big passions</h3>
+<div align="center">
  
 <p> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
