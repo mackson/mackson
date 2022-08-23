@@ -5,7 +5,7 @@
     I'm 34 years old
   and have over 15 years of experience
   as a Software Engineer and Full Stack
-  Developer. <br/>⚡ I’m currently working at act digital / BTG Pactual
+  Developer. <!--<br/>⚡ I’m currently working at act digital / BTG Pactual-->
   </i>
 </p>
 
@@ -44,7 +44,7 @@ const skills = {
 <hr/>
 <div align="center">
   <a href="https://github.com/mackson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mackson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mackson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackson&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
