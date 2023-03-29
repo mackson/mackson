@@ -1,13 +1,14 @@
 
-## 👋 Hi, I'm Mackson Araujo | Senior Software Engineer and Full Stack Developer
+## 👋 Hi, I'm Mackson Araujo | Senior Software Engineer and Educator
 <p>
   <i>
-    I'm 34 years old
+    I'm 35 years old
   and have over 15 years of experience
-  as a Software Engineer and Full Stack
-  Developer. <!--<br/>⚡ I’m currently working at act digital / BTG Pactual-->
+  as a Software Engineer and Educator.
   </i>
 </p>
+
+<img src="https://media.licdn.com/dms/image/D4D16AQHpmnzunpiwLw/profile-displaybackgroundimage-shrink_350_1400/0/1680119697525?e=1685577600&v=beta&t=siew9rU7TcwDlRlEpEfwN3d3N0yvd0KeQKISJwa_P0s" alt="banner" />
 
 <h3 align="left">I am good at a few things:</h3>
 
