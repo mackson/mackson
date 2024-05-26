@@ -1,27 +1,26 @@
 
-## 👋 Hi, I'm Mackson Araujo | Senior Software Engineer and Educator
+## 👋 Hi, I'm Mackson Araujo | Tech Lead Senior and Educator
 <p>
   <i>
-    I'm 35 years old
-  and have over 15 years of experience
+    I'm 36 years old
+  and have over 17 years of experience
   as a Software Engineer and Educator.
   </i>
 </p>
 
-<img src="https://media.licdn.com/dms/image/D4D16AQHpmnzunpiwLw/profile-displaybackgroundimage-shrink_350_1400/0/1680119697525?e=1685577600&v=beta&t=siew9rU7TcwDlRlEpEfwN3d3N0yvd0KeQKISJwa_P0s" alt="banner" />
 
 <h3 align="left">I am good at a few things:</h3>
 
 ```javascript
 const skills = {
-  backend: [Nodejs, Typescript, Serverless, RabbitMQ, Python, Java, '.Net Core'],
+  backend: [PHP, Laravel, Nodejs, Typescript, Serverless, RabbitMQ, Python, Java, '.Net Core'],
   database: [PostgreSQL, MySQL, MongoDB],
-  frontend: [Reactjs, HTML5, CSS3, Javascript, 'Styled-Components', Bootstrap, ChakraUI],
-  mobile: ['React Native', Xamarin],
-  architecture: [Microservices, DDD, SOLID],
-  aws: [EC2, Lambda, SQS, Kinesis, S3, 'Secrets Manager'],
-  test: [Jest, Mocha],
-  devops: ['Github Actions', Jenkins, Docker, Kubernetes, Rancher ],
+  frontend: [Vue, Nuxt, Reactjs, HTML5, CSS3, Javascript, Tailwind, SASS, 'Styled-Components', Bootstrap, ChakraUI, Vuetify],
+  mobile: ['React Native'],
+  architecture: ['Clean Archtecture', DDD, SOLID,],
+  aws: [ECS, EKS, EC2, 'Code Pipeline', 'Route 53', Cloudfront Lambda, SQS, Kinesis, S3, 'Secrets Manager'],
+  test: [Vitest, Jest, Mocha, PHPUnity],
+  devops: [Terraform, 'Github Actions', Jenkins, Docker, Kubernetes, Rancher ],
   agile: [Scrum, XP, Kanban]
 }
 ```
@@ -45,7 +44,6 @@ const skills = {
 <hr/>
 <div align="center">
   <a href="https://github.com/mackson">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mackson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackson&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
@@ -55,6 +53,5 @@ const skills = {
 <div align="center"> 
   <a href = "mailto:macksonweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/macksonaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
  
 </div>
