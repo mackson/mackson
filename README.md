@@ -1,8 +1,8 @@
 
-## 👋 Hi, I'm Mackson Araujo | Tech Lead Senior and Educator
+## 👋 Hi, I'm Mackson Araujo | Senior Full-stack Engineer | DevOps Engineer/SRE | Tech Lead | Educator
 <p>
   <i>
-    I'm 36 years old
+    I'm 37 years old
   and have over 17 years of experience
   as a Software Engineer and Educator.
   </i>
@@ -13,14 +13,14 @@
 
 ```javascript
 const skills = {
-  backend: [PHP, Laravel, Nodejs, Typescript, Serverless, RabbitMQ, Python, Java, '.Net Core'],
-  database: [PostgreSQL, MySQL, MongoDB],
+  backend: [PHP, Laravel, Nodejs, Java, Ktor, Typescript, Python, Java, '.Net Core'],
+  database: [PostgreSQL, MySQL, MongoDB, Redis],
   frontend: [Vue, Nuxt, Reactjs, HTML5, CSS3, Javascript, Tailwind, SASS, 'Styled-Components', Bootstrap, ChakraUI, Vuetify],
-  mobile: ['React Native'],
-  architecture: ['Clean Archtecture', DDD, SOLID,],
-  aws: [ECS, EKS, EC2, 'Code Pipeline', 'Route 53', Cloudfront Lambda, SQS, Kinesis, S3, 'Secrets Manager'],
-  test: [Vitest, Jest, Mocha, PHPUnity],
-  devops: [Terraform, 'Github Actions', Jenkins, Docker, Kubernetes, Rancher ],
+  mobile: ['React Native', Kotlin],
+  architecture: ['Clean Archtecture', Domain Driven Design, SOLID, Serverless, Microservices],
+  aws: [ECS, EKS, EC2, 'Code Pipeline', 'Route 53', Cloudfront, Lambda, SQS, Kinesis, S3, 'Secrets Manager'],
+  test: [Vitest, Jest, Mocha, PHPUnity, Pest, 'Ktor Test Engine', JUnit],
+  devops: [Docker, Kubernetes, Terraform, 'Github Actions', Jenkins, Rancher, Coolify, RabbitMQ],
   agile: [Scrum, XP, Kanban]
 }
 ```
