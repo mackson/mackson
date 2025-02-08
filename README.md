@@ -17,7 +17,7 @@ const skills = {
   database: [PostgreSQL, MySQL, MongoDB, Redis],
   frontend: [Vue, Nuxt, Reactjs, HTML5, CSS3, Javascript, Tailwind, SASS, 'Styled-Components', Bootstrap, ChakraUI, Vuetify],
   mobile: ['React Native', Kotlin],
-  architecture: ['Clean Archtecture', Domain Driven Design, SOLID, Serverless, Microservices],
+  architecture: ['Clean Archtecture', 'Domain Driven Design', SOLID, Serverless, Microservices],
   aws: [ECS, EKS, EC2, 'Code Pipeline', 'Route 53', Cloudfront, Lambda, SQS, Kinesis, S3, 'Secrets Manager'],
   test: [Vitest, Jest, Mocha, PHPUnity, Pest, 'Ktor Test Engine', JUnit],
   devops: [Docker, Kubernetes, Terraform, 'Github Actions', Jenkins, Rancher, Coolify, RabbitMQ],
