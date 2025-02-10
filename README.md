@@ -3,7 +3,7 @@
 <p>
   <i>
     I'm 37 years old
-  and have overI have 17 years of experience as a Full-stack Engineer, having worked on several successful projects, with different platforms and stacks such as Nodejs, Reactjs, Vue, Typescript, PHP, Java, Kotlin/Ktor and AWS. As an educator, entrepreneur and Tech Lead I have been able to impact the lives of thousands of teachers, students and customers using the best innovations, methodologies and processes.
+  and have over 17 years of experience as a Full-stack Engineer, having worked on several successful projects, with different platforms and stacks such as Nodejs, Reactjs, Vue, Typescript, PHP, Java, Kotlin/Ktor and AWS. As an educator, entrepreneur and Tech Lead I have been able to impact the lives of thousands of teachers, students and customers using the best innovations, methodologies and processes.
 
   </i>
 </p>
