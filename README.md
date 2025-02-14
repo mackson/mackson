@@ -1,10 +1,12 @@
 
-## 👋 Hi, I'm Mackson Araujo | Senior Full-stack Engineer | DevOps Engineer/SRE | Tech Lead | Educator
+## 👋 Hi, I'm Mackson Araujo | Senior Software Engineer | DevOps Engineer/SRE | Tech Lead | Educator
+<p>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFwjHelaF0zQg/profile-displaybackgroundimage-shrink_350_1400/B4DZUGP2MVHkAc-/0/1739566572762?e=1744848000&v=beta&t=SzRGdVko5ProS6Hl4pkWWysKrYat2TcUEIkV3B5hmvg" alt="logo" />
+</p>
 <p>
   <i>
     I'm 37 years old
   and have over 17 years of experience as a Full-stack Engineer, having worked on several successful projects, with different platforms and stacks such as Nodejs, Reactjs, Vue, Typescript, PHP, Java, Kotlin/Ktor and AWS. As an educator, entrepreneur and Tech Lead I have been able to impact the lives of thousands of teachers, students and customers using the best innovations, methodologies and processes.
-
   </i>
 </p>
 
@@ -24,7 +26,7 @@ const skills = {
   agile: [Scrum, XP, Kanban]
 }
 ```
-<h3 align="left">My big passions</h3>
+<!--<h3 align="left">My big passions</h3>
 <div align="center">
  
 <p> 
@@ -39,13 +41,13 @@ const skills = {
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
    </p>
   
-</div>
+</div>-->
 
-<hr/>
+<!--<hr/>
 <div align="center">
   <a href="https://github.com/mackson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mackson&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div>-->
   
 
  ##
