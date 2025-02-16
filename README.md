@@ -1,28 +1,27 @@
 
 ## 👋 Hi, I'm Mackson Araujo | Senior Software Engineer | DevOps Engineer/SRE | Tech Lead | Educator
 <p>
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFwjHelaF0zQg/profile-displaybackgroundimage-shrink_350_1400/B4DZUGP2MVHkAc-/0/1739566572762?e=1744848000&v=beta&t=SzRGdVko5ProS6Hl4pkWWysKrYat2TcUEIkV3B5hmvg" alt="logo" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGyhMUzq17-zA/profile-displaybackgroundimage-shrink_350_1400/B4DZUQQkviG8AY-/0/1739734535662?e=1745452800&v=beta&t=4LjXfNftDQdWYTINJpoUeTkaarqksnSvbgbVJYjHYPQ" alt="logo" />
 </p>
 <p>
   <i>
     I'm 37 years old
-  and have over 17 years of experience as a Full-stack Engineer, having worked on several successful projects, with different platforms and stacks such as Nodejs, Reactjs, Vue, Typescript, PHP, Java, Kotlin/Ktor and AWS. As an educator, entrepreneur and Tech Lead I have been able to impact the lives of thousands of teachers, students and customers using the best innovations, methodologies and processes.
+  and have over 17 years of experience as a Full-stack Engineer, having worked on several successful projects, with different platforms and stacks such as Nodejs, Reactjs, Vue, Typescript, PHP, Java, Kotlin/Ktor, Python, Golang and AWS. As an educator, entrepreneur and Tech Lead I have been able to impact the lives of thousands of teachers, students and customers using the best innovations, methodologies and processes.
   </i>
 </p>
-
 
 <h3 align="left">I am good at a few things:</h3>
 
 ```javascript
 const skills = {
-  backend: [PHP, Laravel, Nodejs, Java, Ktor, Typescript, Python, Java, '.Net Core'],
+  backend: [Golang, PHP, Laravel, Nodejs, Nest, Java, Kotlin, 'Spring Boot', Typescript, '.Net Core'],
   database: [PostgreSQL, MySQL, MongoDB, Redis],
-  frontend: [Vue, Nuxt, Reactjs, HTML5, CSS3, Javascript, Tailwind, SASS, 'Styled-Components', Bootstrap, ChakraUI, Vuetify],
+  frontend: [Vue, Nuxt, Reactjs, Next, HTML5, CSS3, Javascript, Tailwind, SASS, 'Styled-Components', Bootstrap, ChakraUI, Vuetify],
   mobile: ['React Native', Kotlin],
   architecture: ['Clean Archtecture', 'Domain Driven Design', SOLID, Serverless, Microservices],
   aws: [ECS, EKS, EC2, 'Code Pipeline', 'Route 53', Cloudfront, Lambda, SQS, Kinesis, S3, 'Secrets Manager'],
-  test: [Vitest, Jest, Mocha, PHPUnity, Pest, 'Ktor Test Engine', JUnit],
-  devops: [Docker, Kubernetes, Terraform, 'Github Actions', Jenkins, Rancher, Coolify, RabbitMQ],
+  test: [Vitest, Jest, Mocha, PHPUnit, Pest, 'Ktor Test Engine', JUnit],
+  devops: [Docker, Kubernetes, Terraform, 'Github Actions', Jenkins, ArgoCD, Rancher, Coolify, RabbitMQ, Python],
   agile: [Scrum, XP, Kanban]
 }
 ```
