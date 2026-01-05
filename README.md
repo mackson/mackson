@@ -1,12 +1,12 @@
 
-## 👋 Hi, I'm Mackson Araujo | Senior Software Engineer | DevOps Engineer/SRE | Tech Lead | Educator
+## 👋 Hi, I'm Mackson Araujo | Software Engineering Specialist | Tech Lead | Node | React
 <p>
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGyhMUzq17-zA/profile-displaybackgroundimage-shrink_350_1400/B4DZUQQkviG8AY-/0/1739734535662?e=1745452800&v=beta&t=4LjXfNftDQdWYTINJpoUeTkaarqksnSvbgbVJYjHYPQ" alt="logo" />
+  <img src="https://linguamaps-public.codestation.com.br/1739734535662.jpeg" alt="logo" />
 </p>
 <p>
   <i>
-    I'm 37 years old
-  and have over 17 years of experience as a Full-stack Engineer, having worked on several successful projects, with different platforms and stacks such as Nodejs, Reactjs, Vue, Typescript, PHP, Java, Kotlin/Ktor, Python, Golang and AWS. As an educator, entrepreneur and Tech Lead I have been able to impact the lives of thousands of teachers, students and customers using the best innovations, methodologies and processes.
+    I'm 38 years old
+  and have over 17+ years of experience as a Full-stack Engineer, having worked on several successful projects, with different platforms and stacks such as Nodejs, Reactjs, Vue, Typescript, GCP and AWS. As an educator, entrepreneur and Tech Lead I have been able to impact the lives of thousands of teachers, students and customers using the best innovations, methodologies and processes.
   </i>
 </p>
 
@@ -14,14 +14,14 @@
 
 ```javascript
 const skills = {
-  backend: [Golang, PHP, Laravel, Nodejs, Nest, Java, Kotlin, 'Spring Boot', Typescript, '.Net Core'],
-  database: [PostgreSQL, MySQL, MongoDB, Redis],
-  frontend: [Vue, Nuxt, Reactjs, Next, HTML5, CSS3, Javascript, Tailwind, SASS, 'Styled-Components', Bootstrap, ChakraUI, Vuetify],
-  mobile: ['React Native', Kotlin],
+  backend: [Nodejs, Nest, Typescript, Golang, PHP, Laravel, Java, Kotlin, 'Spring Boot', '.Net Core'],
+  database: [PostgreSQL, MySQL, MongoDB, Redis, Cassandra],
+  frontend: [React, Next, Vue, Nuxt, Shadcn, Tailwind],
+  mobile: ['React Native', Flutter, Kotlin, ],
   architecture: ['Clean Archtecture', 'Domain Driven Design', SOLID, Serverless, Microservices],
   aws: [ECS, EKS, EC2, 'Code Pipeline', 'Route 53', Cloudfront, Lambda, SQS, Kinesis, S3, 'Secrets Manager'],
-  test: [Vitest, Jest, Mocha, PHPUnit, Pest, 'Ktor Test Engine', JUnit],
-  devops: [Docker, Kubernetes, Terraform, 'Github Actions', Jenkins, ArgoCD, Rancher, Coolify, RabbitMQ, Python],
+  test: [K6, Vitest, Jest, Mocha, PHPUnit, Pest, 'Ktor Test Engine', JUnit],
+  devops: [Docker, Kubernetes, Terraform, 'Github Actions', Jenkins, ArgoCD, Rancher, RabbitMQ, Kafka, Python],
   agile: [Scrum, XP, Kanban]
 }
 ```
@@ -53,6 +53,5 @@ const skills = {
  
 <div align="center"> 
   <a href = "mailto:macksonweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/macksonaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/macksonaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
