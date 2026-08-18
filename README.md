@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Mackson Araujo | Software Engineering Specialist | Tech Lead | Node | React
 <p>
-  <img src="https://linguamaps-public.codestation.com.br/1739734535662.jpeg" alt="logo" />
+  <img src="https://public-store.linguamaps.app/1739734535662.jpeg" alt="logo" />
 </p>
 <p>
   <i>
